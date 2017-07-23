@@ -1,5 +1,6 @@
 # Weed detection dataset with RGB images taken under variable light conditions
-A dataset of RGB images from carrot seedlings with weeds. 
+
+A dataset of RGB images from carrot seedlings with weeds (Carrot-Weed dataset). 
 
 The dataset can be used freely for non-commercial applications. For any additional information please contact: Petre Lameski (lameski@finki.ukim.mk)
 

@@ -2,7 +2,7 @@
 
 A dataset of RGB images from carrot seedlings with weeds (Carrot-Weed dataset). 
 
-The dataset can be used freely for non-commercial applications. For any additional information please contact: Petre Lameski (lameski@finki.ukim.mk)
+The dataset can be used freely for non-commercial applications. For any additional information please contact: Petre Lameski (petre.lameski@ni-tekna.com)
 
 If you use this dataset please cite: 
 
